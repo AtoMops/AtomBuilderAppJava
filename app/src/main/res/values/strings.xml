@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AtomBuilder</string>
+    <string name="AtomBuilder">AtomBuilder</string>
+    <string name="createNew">createNew</string>
+    <string name="New">New</string>
+    <string name="Load">Load</string>
+    <string name="neutronen">Neutron</string>
+    <string name="proton">Proton</string>
+    <string name="amountCore"> Amount\nNucleons</string>
+    <string name="protonAmount">Amount\nProtons</string>
+    <string name="neutronAmount">Amount\nNeutrons</string>
+    <string name="element">poss.\nElement</string>
+    <string name="symbol">Symbol</string>
+    <string name="massParts">Mass of\nsingle parts</string>
+    <string name="massEmpiric">real Mass\n(empiric)</string>
+    <string name="clear">clear Core</string>
+
+</resources>

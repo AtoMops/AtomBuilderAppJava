@@ -1,0 +1,2 @@
+rootProject.name='AtomBuilder'
+include ':app'
